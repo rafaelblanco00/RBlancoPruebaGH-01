@@ -1,0 +1,128 @@
+{
+    "m_Id": "RBP-001",
+    "m_ParentId": "",
+    "m_Entries": [
+        {
+            "identifier": {
+                "path": "Main Menu/Edit/Search/Search All..."
+            },
+            "combinations": []
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Edit/Shortcuts..."
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 107,
+                    "m_Modifiers": 2
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Window/General/Project"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 49,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Window/General/Console"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 50,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Window/Panels/Close all floating panels..."
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 119,
+                    "m_Modifiers": 2
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Window/Package Manager"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 109,
+                    "m_Modifiers": 2
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Window/General/Inspector"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 51,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Edit/Pause"
+            },
+            "combinations": []
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Edit/Project Settings..."
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 112,
+                    "m_Modifiers": 6
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Window/General/Progress"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 52,
+                    "m_Modifiers": 0
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Assets/Show in Explorer"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 101,
+                    "m_Modifiers": 2
+                }
+            ]
+        },
+        {
+            "identifier": {
+                "path": "Main Menu/Window/XR/Snapdragon Spaces/Configuration Tool"
+            },
+            "combinations": [
+                {
+                    "m_KeyCode": 113,
+                    "m_Modifiers": 2
+                }
+            ]
+        }
+    ]
+}
